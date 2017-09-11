@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="/lib/credentials" />
+    <ignored-resource url="/lib/form" />
+    <ignored-resource url="/lib/hudson" />
+    <ignored-resource url="/lib/layout" />
+    <ignored-resource url="jelly:core" />
+    <ignored-resource url="jelly:define" />
+    <ignored-resource url="jelly:stapler" />
+  </component>
+</application>
