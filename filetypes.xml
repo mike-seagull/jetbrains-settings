@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="jelly" type="HTML" />
+      <mapping pattern="part1_input" type="PLAIN_TEXT" />
       <mapping pattern="jenvrc" type="Properties" />
     </extensionMap>
   </component>
