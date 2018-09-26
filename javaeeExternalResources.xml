@@ -7,5 +7,6 @@
     <ignored-resource url="jelly:core" />
     <ignored-resource url="jelly:define" />
     <ignored-resource url="jelly:stapler" />
+    <ignored-resource url="urn:shemas-jetbrains-com:teamcity-agent-plugin-v1-xml" />
   </component>
 </application>
